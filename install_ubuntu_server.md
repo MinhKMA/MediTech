@@ -56,7 +56,7 @@ Tiếp đó Power in this virtual machine
 - Guided - use entire disk: Tự động phân vùng.
 - Guided - use entire disk and with set up LVM: Tự động phân vùng với LVM
 - Guided - use entire disk and with set encrypted up LVM: Tự động phân vùng và mã hóa LVM.
-- Manual: Phân vùng bằng tay.
+- Manual - Phân vùng bằng tay.
 
 
 <img src="http://i.imgur.com/RnTbaaf.png">
