@@ -36,18 +36,15 @@ Mình chọn cài sau...
 trong đó có 3 loại card mạng: 
 
 - Bridge:
-
  - Card Bridge trên máy ảo chỉ có thể giao tiếp với card mạng thật trên máy thật.
  - Card mạng Bridge này có thể giao tiếp với mạng vật lý mà máy tính thật đang kết nối.
 
 - Host-only:
-
  - Card Host-only chỉ có thể giao tiếp với card mạng ảo VMnet1 trên máy thật.
  - Card Host-only chỉ có thể giao tiếp với các card Host-only trên các máy ảo khác.
  - Card Host-only không thể giao tiếp với mạng vật lý mà máy tính thật đang kết nối.
 
 - NAT:
-
  - Card NAT chỉ có thể giao tiếp với card mạng ảo VMnet8 trên máy thật.
  - Card NAT chỉ có thể giao tiếp với các card NAT trên các máy ảo khác.
  - Card NAT không thể giao tiếp với mạng vật lý mà máy tính thật đang kết nối. Tuy nhiên nhờ cơ chế NAT được tích hợp trong VMWare, máy tính ảo có thể gián tiếp liên lạc với mạng vật lý bên ngoài.
