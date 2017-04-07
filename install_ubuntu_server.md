@@ -1,5 +1,5 @@
 # Cài đặt Ubuntu 14.04
-##Chọn đường link dẫn file iso để cài đặt 
+## Chọn đường link dẫn file iso để cài đặt 
 
 <img src ="http://i.imgur.com/o8hWIn8.png">
 
